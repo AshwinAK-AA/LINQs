@@ -1,0 +1,2 @@
+# LINQs
+Common LINQ Queries
